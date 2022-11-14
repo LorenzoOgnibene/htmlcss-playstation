@@ -9,12 +9,10 @@
     background-color: black;
 }
 
-
 .logo-bar img{
     width: 100px;
     margin-right: 1rem;
 }
-
 
 #jumbotron{
     background-image: url("../img/jumbo-bg.png");
@@ -32,11 +30,8 @@
     background-color: aquamarine;
 }
 
-
-
-#card-img{
-    height: 200px;
-    background-color: red;
+#game-card img{
+    border-radius: 1.5rem;
 }
 
 #console-img{

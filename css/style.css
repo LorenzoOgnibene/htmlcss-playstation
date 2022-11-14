@@ -1,14 +1,31 @@
+.bg-orange{
+    background-color: #cd3d0f;
+    color: white;
+}
+
 .logo-bar{
     height: 45px;
     width: 100%;
     background-color: black;
 }
 
-#jumbotron-center,
+.logo-bar img{
+    width: 100px;
+    margin-right: 1rem;
+}
+
+
 #jumbotron{
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+}
+
+#jumbotron-center{
     height: 600px;
     background-color: aquamarine;
 }
+
+
 
 #card-img{
     height: 200px;

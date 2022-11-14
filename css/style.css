@@ -3,3 +3,13 @@
     width: 100%;
     background-color: black;
 }
+
+#jumbo-content{
+    height: 600px;
+    background-color: aquamarine;
+}
+
+#card-img{
+    height: 200px;
+    background-color: red;
+}

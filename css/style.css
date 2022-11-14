@@ -9,6 +9,7 @@
     background-color: black;
 }
 
+
 .logo-bar img{
     width: 100px;
     margin-right: 1rem;
@@ -18,6 +19,12 @@
 #jumbotron{
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
+    background-position-x: center;
+    height: 675px;
+}
+
+#jumbo-content img{
+    width: 300px;
 }
 
 #jumbotron-center{

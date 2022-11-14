@@ -4,7 +4,8 @@
     background-color: black;
 }
 
-#jumbo-content{
+#jumbotron-center,
+#jumbotron{
     height: 600px;
     background-color: aquamarine;
 }

@@ -42,3 +42,12 @@
 #ps-now{
     background-color: #161c3b;
 }
+
+footer{
+    background-color: #00439c;
+}
+
+footer ul{
+    list-style-type: none;
+    color: white
+}

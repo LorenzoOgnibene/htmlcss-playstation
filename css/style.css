@@ -19,6 +19,16 @@ body{
     color: #117bd1;
 }
 
+main{
+    padding-top: 120px;
+}
+
+header{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
 .logo-bar{
     height: 45px;
     width: 100%;
@@ -29,6 +39,7 @@ body{
     width: 100px;
     margin-right: 1rem;
 }
+
 
 #jumbotron{
     background-image: url("../img/jumbo-bg.png");
@@ -45,7 +56,6 @@ body{
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
     background-position: center;
     background-size: cover;
-
 }
 
 #new-games img,

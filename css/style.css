@@ -53,21 +53,6 @@ body{
     border-radius: 1.5rem;
 }
 
-.ps5-img-part{
-    height: 180px;
-    background-color: blue;
-}
-
-.test-img{
-    height: 150px;
-    background-color: cadetblue;
-}
-
-.test-img-big{
-    height: 250px;
-    background-color: crimson;
-}
-
 #ps-plus{
     background-color: #bebcbb;
 }

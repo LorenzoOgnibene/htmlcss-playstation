@@ -34,8 +34,10 @@ body{
 }
 
 #jumbotron-center{
-    height: 600px;
-    background-color: aquamarine;
+    background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+    background-position: center;
+    background-size: cover;
+
 }
 
 #game-card img{

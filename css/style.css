@@ -7,6 +7,10 @@ body{
     color: white;
 }
 
+.bg-dark-custom{
+    background-color: #1f1f1f;
+}
+
 .c-blue{
     color: #117bd1;
 }
@@ -40,6 +44,7 @@ body{
 
 }
 
+#new-games img,
 #game-card img{
     border-radius: 1.5rem;
 }

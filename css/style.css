@@ -1,6 +1,14 @@
+body{
+    font-family:  Helvetica, sans-serif;
+}
+
 .bg-orange{
     background-color: #cd3d0f;
     color: white;
+}
+
+.c-blue{
+    color: #117bd1;
 }
 
 .logo-bar{
@@ -32,11 +40,6 @@
 
 #game-card img{
     border-radius: 1.5rem;
-}
-
-#console-img{
-    height: 400px;
-    background-color: violet;
 }
 
 .ps5-img-part{

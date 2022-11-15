@@ -11,6 +11,10 @@ body{
     background-color: #1f1f1f;
 }
 
+.bg-grey-custom{
+    background-color: #d9dadc;
+}
+
 .c-blue{
     color: #117bd1;
 }

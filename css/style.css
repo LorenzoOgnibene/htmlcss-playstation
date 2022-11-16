@@ -40,6 +40,10 @@ header{
     margin-right: 1rem;
 }
 
+nav a:hover { 
+    color: #00439c !important; 
+}
+
 
 #jumbotron{
     background-image: url("../img/jumbo-bg.png");

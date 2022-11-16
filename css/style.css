@@ -102,6 +102,11 @@ nav a:hover {
     transform: scale(1.1);
 }
 
+#game-card img:hover{
+    border: 2px solid #0070d1 !important;
+    padding: .2rem;
+}
+
 #showing-console .my-custom-hover:hover{
     opacity: 100% !important;
     border-bottom: 2px solid #0070d1;
@@ -109,4 +114,5 @@ nav a:hover {
 
 .border-transparent{
     border: 2px solid transparent;
+    padding: .2rem;
 }
